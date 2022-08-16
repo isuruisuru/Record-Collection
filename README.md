@@ -1,5 +1,6 @@
-# Record-Collection
-### how I coded the 95th activity of freeCodeCamp Basic JavaScript course
+## Record-Collection (how I coded the 95th activity of freeCodeCamp Basic JavaScript course).
+
+### __Please try to solve the activity on your own and refer this _only_ to clear any doubts__. 
 
 ## Task
 > You are given an object literal representing a part of your musical album collection. Each album has a unique id number as its key and several other properties. Not all albums have complete information.
